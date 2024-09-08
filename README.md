@@ -2,6 +2,8 @@
 
 The **Real-Time Stock Price Tracker** is a web application that allows users to search and monitor the current stock prices in real-time. It displays the stock price, percentage change from the opening price, and uses color indicators to show price movement visually.
 
+![alt text](<Screenshot 2024-09-08 at 1.26.23 AM.png>)
+
 ## Features
 
 - **Add Stock Tickers**: Easily search and add stock tickers to the tracker.
